@@ -1,3 +1,3 @@
 # football_journeys
 
-Setting up a function that is more flexible that overtly stating the league/teams. WIP
+Setting up a function that is more flexible than overtly stating the league/teams. WIP
