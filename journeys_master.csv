@@ -1,0 +1,21 @@
+,origin,destination,duration(s),distance(m),origin_name,destination_name,distance(miles),duration(hhmmss),fixture_key
+0,0,1,8772.3,180623.9,AFC Bournemouth,Arsenal,112.2344533669,02:26:12,Arsenal-AFC Bournemouth
+9,2,1,8341.8,184982.8,Aston Villa,Arsenal,114.94294741879999,02:19:01,Arsenal-Aston Villa
+13,3,1,2335.3,19540.3,Brentford,Arsenal,12.141775751299999,00:38:55,Arsenal-Brentford
+17,4,1,6158.1,92543.7,Brighton & Hove Albion,Arsenal,57.5039714127,01:42:38,Arsenal-Brighton & Hove Albion
+1,0,2,11181.6,269672.5,AFC Bournemouth,Aston Villa,167.5666709975,03:06:21,Aston Villa-AFC Bournemouth
+5,1,2,8369.2,185024.2,Arsenal,Aston Villa,114.96867217820001,02:19:29,Aston Villa-Arsenal
+14,3,2,8049.1,194044.0,Brentford,Aston Villa,120.57331432400001,02:14:09,Aston Villa-Brentford
+18,4,2,11530.4,283184.1,Brighton & Hove Albion,Aston Villa,175.9623874011,03:12:10,Aston Villa-Brighton & Hove Albion
+2,0,3,6812.6,159761.4,AFC Bournemouth,Brentford,99.2711008794,01:53:32,Brentford-AFC Bournemouth
+6,1,3,2213.6,18894.1,Arsenal,Brentford,11.7402458111,00:36:53,Brentford-Arsenal
+10,2,3,8221.1,195984.0,Aston Villa,Brentford,121.778774064,02:17:01,Brentford-Aston Villa
+19,4,3,5144.3,120900.4,Brighton & Hove Albion,Brentford,75.12400244839999,01:25:44,Brentford-Brighton & Hove Albion
+3,0,4,6886.3,156858.5,AFC Bournemouth,Brighton & Hove Albion,97.4673230035,01:54:46,Brighton & Hove Albion-AFC Bournemouth
+7,1,4,6118.2,91931.0,Arsenal,Brighton & Hove Albion,57.123257401000004,01:41:58,Brighton & Hove Albion-Arsenal
+11,2,4,11570.3,284273.0,Aston Villa,Brighton & Hove Albion,176.638998283,03:12:50,Brighton & Hove Albion-Aston Villa
+15,3,4,4978.8,119203.5,Brentford,Brighton & Hove Albion,74.0695979985,01:22:58,Brighton & Hove Albion-Brentford
+4,1,0,8664.6,175364.9,Arsenal,AFC Bournemouth,108.9666632779,02:24:24,AFC Bournemouth-Arsenal
+8,2,0,11108.1,269357.3,Aston Villa,AFC Bournemouth,167.3708148583,03:05:08,AFC Bournemouth-Aston Villa
+12,3,0,6565.7,156949.9,Brentford,AFC Bournemouth,97.52411631289999,01:49:25,AFC Bournemouth-Brentford
+16,4,0,6876.7,156114.6,Brighton & Hove Albion,AFC Bournemouth,97.0050851166,01:54:36,AFC Bournemouth-Brighton & Hove Albion
